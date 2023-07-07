@@ -1,1 +1,4 @@
-//denver is burning in hell
+let input = document.querySelector("input");
+let form = document.querySelector("form");
+
+form.addEventListener("ketdown")
